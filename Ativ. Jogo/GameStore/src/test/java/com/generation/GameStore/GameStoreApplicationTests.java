@@ -1,10 +1,10 @@
-package com.gen.farmacia;
+package com.generation.GameStore;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FarmaciaApplicationTests {
+class GameStoreApplicationTests {
 
 	@Test
 	void contextLoads() {
